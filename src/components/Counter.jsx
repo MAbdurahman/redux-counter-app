@@ -11,8 +11,8 @@ export default function Counter() {
    return (
       <div>
          <p className='counter_paragraph'>Count:&nbsp; {count}</p>
-         <button onClick={() => dispatch(increment())}>Increment</button>
          <button onClick={() => dispatch(decrement())}>Decrement</button>
+         <button onClick={() => dispatch(increment())}>Increment</button>
       </div>
 
    );
