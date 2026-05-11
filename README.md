@@ -29,3 +29,5 @@ or
 ```shell
 yarn build
 ```
+
+<img width="799" height="446" alt="Image" src="https://github.com/user-attachments/assets/eda2a247-277a-44e2-92ec-0907b34087f2" />

@@ -10,7 +10,7 @@ export default function Counter() {
 
    return (
       <div>
-         <p className='counter_paragraph'>Count:&nbsp; {count}</p>
+         <h3 className='counter_paragraph'>Count:&nbsp; {count}</h3>
          <button onClick={() => dispatch(decrement())}>Decrement</button>
          <button onClick={() => dispatch(increment())}>Increment</button>
       </div>

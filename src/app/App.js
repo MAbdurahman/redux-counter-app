@@ -5,7 +5,7 @@ export default function App() {
 
    return (
       <div className='app'>
-         <h1>React-Redux Counter</h1>
+         <h1>Redux Counter</h1>
          <Counter/>
       </div>
 
